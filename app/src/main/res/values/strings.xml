@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidCurrency</string>
+    <string name="result">Result :</string>
+    <string-array name="countryISOS">
+        <item>US</item>
+        <item>GB</item>
+        <item>ES</item>
+        <item>DK</item>
+        <item>GH</item>
+        <item>SA</item>
+        <item>ZW</item>
+        <item>AU</item>
+        <item>JP</item>
+    </string-array>
+</resources>
+
+
